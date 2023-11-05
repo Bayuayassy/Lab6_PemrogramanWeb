@@ -64,6 +64,10 @@ Disini kita akan membuat layout sederhana dengan menggunakan css frameword(Twitt
 
 2. Kemudian kita masukan codingannya seperti berikut.
 
+   ![Cuplikan layar 2023-11-05 193752](https://github.com/Bayuayassy/Lab6_PemrogramanWeb/assets/115678251/a8f87878-a4a1-4b6d-9d19-2878e91411d9)
+
+   ![Cuplikan layar 2023-11-05 193803](https://github.com/Bayuayassy/Lab6_PemrogramanWeb/assets/115678251/91ad5cd6-d935-4f5a-8890-3c3cd8085829)
+
    
 
 
